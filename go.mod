@@ -1,4 +1,5 @@
-module Lab_04-variant05
+module github.com/DiasIssayev/Lab_04-variant05
+
 
 go 1.25
 
